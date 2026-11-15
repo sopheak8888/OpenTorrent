@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1CB71C</color>
+    <color name="primary_light">#99ED53</color>
+    <color name="primary_track">#331CB71C</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#7F333333</color>
+    <color name="text_unselect">#B2333333</color>
+    <color name="bg_content">#F8F8F8</color>
+    <color name="bg_sheet">#FFFFFF</color>
+    <color name="line">#EEEEEE</color>
+    <color name="toggle_off">#CCCCCC</color>
+    <color name="top_green">#E6F7E4</color>
+    <color name="thumb_bg">#E9F6E9</color>
+</resources>

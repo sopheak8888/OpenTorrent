@@ -1,0 +1,16 @@
+# build output
+build/
+*.apk
+*.idsig
+
+# fetched engine binaries (see build.sh)
+libs/
+
+# signing material — never commit
+keystore.jks
+*.jks
+*.keystore
+
+.DS_Store
+.idea/
+*.iml
